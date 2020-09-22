@@ -5,4 +5,5 @@ Deep learning course at Hallym University
 * Numpy 활용
 
 * Linear regression 의 개념 및 구현 
+* Perceptron 이해 및 Multi-layer Perceptron
 
