@@ -9,6 +9,7 @@ Deep learning course at Hallym University
 * Linear regression 의 개념 및 구현 
 * Perceptron 이해 및 Multi-layer Perceptron
 * 활성화 함수 (Activation function)
+* Numerically stable softmax
 
 ## Neural Network
 * Forward 연산 (3층 신경망)
