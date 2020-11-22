@@ -14,3 +14,4 @@ Deep learning course at Hallym University
 ## Neural Network
 * Forward 연산 (3층 신경망)
 * 수치적 Gradient 구하기 (1D/2D)
+* Gradient Descent Algorithm
