@@ -2,7 +2,7 @@
 data/
 __not/
 *.bak
-data/
+dataset/
 handpose_20F_small/
 
 # pycharm
