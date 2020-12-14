@@ -2,6 +2,8 @@
 data/
 __not/
 *.bak
+data/
+handpose_20F_small/
 
 # pycharm
 .idea/
