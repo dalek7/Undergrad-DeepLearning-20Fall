@@ -1,3 +1,8 @@
+# Developed for Course, Intro. to AI (717005) @ Hallym Univ.
+# Developed for Course, Deep Learning(710231) @ Hallym Univ.
+# Seung-Chan Kim
+
+
 import numpy as np
 
 from skimage import io
