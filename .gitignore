@@ -4,6 +4,7 @@ __not/
 *.bak
 dataset/
 handpose_20F_small/
+*.h5
 
 # pycharm
 .idea/
